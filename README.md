@@ -1,6 +1,6 @@
 ## Hola, soy Sebastian Castellanos👋
 
-<img src="https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png" >
 
 ### Sobre mi:
 Apasionado por la tecnologia y feliz de vivir esta transicion a ser Analista de datos Jr
@@ -11,3 +11,7 @@ Apasionado por la tecnologia y feliz de vivir esta transicion a ser Analista de 
 - Quieres contactar conmigo? [LinkedIn](https://www.linkedin.com/in/sebastiancas93/)
 
 ### Habilidades 
+<img src="https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Logo%20Python.jpg" >
+<img src="https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Logo%20SQL.png" >
+<img src="https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Logo%20Tableau.png" >
+<img src="https://github.com/Sebastiancas93/Sebastiancas93/blob/main/VS%20COde.png" >
