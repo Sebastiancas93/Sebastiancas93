@@ -1,6 +1,6 @@
 ## Hola, soy Sebastian Castellanos👋
 
-<img src="https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png" >
+<img src="[https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png](https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(3).png)" >
 
 ### Sobre mi:
 Apasionado por la tecnologia y feliz de vivir esta transicion a ser Analista de datos Jr
