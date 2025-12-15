@@ -9,7 +9,7 @@ Trabajo con Python, SQL, Excel y herramientas de BI (Tableau) en proyectos de an
 
 Me caracterizo por ser diligente, educable y con buenas habilidades de comunicación, lo que me permite trabajar de forma efectiva con equipos técnicos y de negocio.
 
-- Quieres contactar conmigo? [<img src="https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Logo%20LinkedIn.png" alt="LinkedIn Logo" width="30"/>](https://www.linkedin.com/in/sebastiancas93/)
+Quieres contactar conmigo? [<img src="https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Logo%20LinkedIn.png" alt="LinkedIn Logo" width="30"/>](https://www.linkedin.com/in/sebastiancas93/)
 
 ### Habilidades 
 <img src="https://github.com/Sebastiancas93/Sebastiancas93/blob/main/Logo%20Python.jpg" alt="Python Logo" width="60"/>
